@@ -26,6 +26,14 @@
 
 }
 
+.iti {
+    width: 100% !important;
+}
+
+.iti--allow-dropdown {
+    width: 100% !important;
+}
+
 @media screen and (max-width:992px) {
     .navbar-height {
         height: auto;
