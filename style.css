@@ -1,0 +1,39 @@
+.navbar-height {
+    height: 28px;
+}
+
+.navbar-padding {
+    padding-left: 2%;
+}
+
+.hover-text:hover {
+    color: #F64984;
+}
+
+.icons-text {
+    color: #F64984;
+}
+
+.navbar-toggler {
+    color: none !important;
+    background-color: whitesmoke;
+}
+
+
+
+.navbar-toggler-icon {
+    color: red !important;
+
+}
+
+@media screen and (max-width:992px) {
+    .navbar-height {
+        height: auto;
+    }
+
+    .navbar-padding {
+        padding-left: 0%;
+    }
+
+
+}
